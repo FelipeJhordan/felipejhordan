@@ -23,6 +23,7 @@ Estou a procura de um desafio!
 - Flutter
 - Design Patterns
 - Phyton
+- Inglês ( Falar/Escrever )
 <br/> <br/>
 #
 ### Página de portifólio: https://portifolio-felipe-jhordan.herokuapp.com/ (Feito com React )
