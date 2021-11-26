@@ -14,8 +14,10 @@ Estou a procura de um desafio!
 - Bancos não relacionais
 - Docker
 ## Estou estudando 📚
-- Padrões de Desenvolvimento
-- Princípios SOLID
+- Next
+- NodeJS ( Aprimorando ) 
+- React Js ( Aprimorando )
+- SOLID
 ## Futuramente quero estudar: 
 - React Native 
 - Flutter
@@ -23,5 +25,6 @@ Estou a procura de um desafio!
 - Phyton
 <br/> <br/>
 #
-##
 ### Página de portifólio: https://portifolio-felipe-jhordan.herokuapp.com/ (Feito com React )
+## Contador de visitas 
+<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/FelipeJhordan/count.svg" /></p>
