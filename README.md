@@ -1,7 +1,7 @@
 # Olá 🦗!
 ## Meu nome é felipe Jhordan, tenho 21 anos e estou focado e empenhado em seguir carreira Dev. Full Stack
-## Status  🟢
-Estou a procura de um desafio!
+## Status 🔵
+Iniciando um novo desafio
 ## Tenho Experiência nas seguintes tecnologias ⚒:
 - Angular 7+
 - NodeJS
