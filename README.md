@@ -1,6 +1,6 @@
 # Olá 🦗!
 ## Meu nome é felipe Jhordan, tenho 21 anos e estou focado e empenhado em seguir carreira Dev. Full Stack
-## Status 🔵
+## Status 🔵 Desenvolvedor full-stack na usemobile ( com muito orgulho )
 Iniciando um novo desafio
 ## Tenho Experiência nas seguintes tecnologias ⚒:
 - Angular 7+
@@ -14,16 +14,18 @@ Iniciando um novo desafio
 - Bancos não relacionais
 - Docker
 ## Estou estudando 📚
-- Next
+- Nest
 - NodeJS ( Aprimorando ) 
 - React Js ( Aprimorando )
-- SOLID
+- SOLID 
+- Python
+- Design Patterns
 ## Futuramente quero estudar: 
 - React Native 
 - Flutter
-- Design Patterns
 - Phyton
 - Inglês ( Falar/Escrever )
+- Machine Learning
 <br/> <br/>
 #
 ### Página de portifólio: https://portifolio-felipe-jhordan.herokuapp.com/ (Feito com React )
