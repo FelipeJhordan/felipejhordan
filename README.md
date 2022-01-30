@@ -20,10 +20,10 @@ Iniciando um novo desafio
 - SOLID 
 - Python
 - Design Patterns
+- Regex 
 ## Futuramente quero estudar: 
 - React Native 
 - Flutter
-- Phyton
 - Inglês ( Falar/Escrever )
 - Machine Learning
 <br/> <br/>
