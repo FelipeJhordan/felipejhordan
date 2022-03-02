@@ -23,7 +23,6 @@ Iniciando um novo desafio
 - Regex 
 ## Futuramente quero estudar: 
 - React Native 
-- Flutter
 - Inglês ( Falar/Escrever )
 - Machine Learning
 <br/> <br/>
