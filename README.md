@@ -6,6 +6,7 @@ Iniciando um novo desafio
 - Angular 7+
 - NodeJS
 - Banco de dados relacional
+- Nest
 ## Tenho conhecimento nas seguintes tecnologias:
 - React
 - Vue
@@ -14,7 +15,7 @@ Iniciando um novo desafio
 - Bancos não relacionais
 - Docker
 ## Estou estudando 📚
-- Nest
+- Angular ( Revendo )
 - NodeJS ( Aprimorando ) 
 - React Js ( Aprimorando )
 - SOLID 
