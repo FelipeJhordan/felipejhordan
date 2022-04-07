@@ -1,7 +1,7 @@
 # Olá 🦗!
 ## Meu nome é felipe Jhordan, tenho 21 anos e estou focado e empenhado em seguir carreira Dev. Full Stack
-## Status 🔵 Desenvolvedor full-stack na usemobile ( com muito orgulho )
-Iniciando um novo desafio
+## Status  
+Estudando e dando uma repensada na vida.
 ## Tenho Experiência nas seguintes tecnologias ⚒:
 - Angular 7+
 - NodeJS
@@ -18,6 +18,8 @@ Iniciando um novo desafio
 - Angular ( Revendo )
 - NodeJS ( Aprimorando ) 
 - React Js ( Aprimorando )
+- Microserviços
+- AWS
 - SOLID 
 - Python
 - Design Patterns
