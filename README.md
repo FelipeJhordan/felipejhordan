@@ -28,6 +28,7 @@ Estudando e a procura de uma nova experiência.
 - React Native 
 - Inglês ( Falar/Escrever )
 - Machine Learning
+- Golang/Elixir
 <br/> <br/>
 #
 ### Página de portifólio: https://portifolio-felipe-jhordan.herokuapp.com/ (Feito com React )
