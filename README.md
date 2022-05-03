@@ -1,5 +1,5 @@
 # Olá 🦗!
-## Meu nome é felipe Jhordan, tenho 21 anos e estou focado e empenhado em seguir carreira Dev. Full Stack
+## Meu nome é felipe Jhordan, tenho 22 anos e estou focado e empenhado em seguir carreira Dev. Full Stack
 ## Status  🟢
 Estudando e a procura de uma nova experiência.
 ## Tenho Experiência nas seguintes tecnologias ⚒:
