@@ -9,7 +9,7 @@ Estudando e a procura de uma nova experiência.
 - Nest
 ## Tenho conhecimento nas seguintes tecnologias:
 - React
-- Vue
+- Angular
 - Spring
 - Android
 - Bancos não relacionais
