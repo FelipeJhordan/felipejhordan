@@ -14,6 +14,7 @@ Estudando e a procura de uma nova experiência.
 - Android
 - Bancos não relacionais
 - Docker
+- Express
 ## Estou estudando 📚
 - Angular ( Revendo )
 - NodeJS ( Aprimorando ) 
