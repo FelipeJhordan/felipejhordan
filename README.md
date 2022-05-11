@@ -4,9 +4,9 @@
 Estudando e a procura de uma nova experiência.
 ## Tenho Experiência nas seguintes tecnologias ⚒:
 - Angular 7+
-- NodeJS
 - Banco de dados relacional
 - Nest
+- AdonisJS
 ## Tenho conhecimento nas seguintes tecnologias:
 - React
 - Angular
