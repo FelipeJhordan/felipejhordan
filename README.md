@@ -35,5 +35,6 @@ Estudando e a procura de uma nova experiência.
 #
 ### Página de portifólio: https://portifolio-felipe-jhordan.herokuapp.com/ (Feito com React )
 ### Página gitlab ( mini atividades da faculdade ): https://gitlab.com/FelipeJhordan
+### Github Secundário : https://github.com/FelipeJhordanSecondary
 ## Contador de visitas 
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/FelipeJhordan/count.svg" /></p>
