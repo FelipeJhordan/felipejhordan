@@ -33,7 +33,7 @@ Estudando e a procura de uma nova experiência.
 - Golang/Elixir
 <br/> <br/>
 #
-### Página de portifólio: https://portifolio-felipe-jhordan.herokuapp.com/ (Feito com React )
+### Página de portifólio: [https://portifolio-felipe-jhordan.herokuapp.com/](https://portifolio-v2.vercel.app/) (Feito com React )
 ### Página gitlab ( mini atividades da faculdade ): https://gitlab.com/FelipeJhordan
 ### Github Secundário : https://github.com/FelipeJhordanSecondary
 ### Linkedin https://www.linkedin.com/in/felipe-jhordan-maciel-alves-5b191917b/
