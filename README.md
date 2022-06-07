@@ -29,16 +29,30 @@ Estudando e a procura de uma nova experiência.
 - Python
 - Design Patterns
 - Regex 
-## Futuramente quero estudar: 
+## Futuramente quero estudar
 - React Native 
 - Inglês ( Falar/Escrever )
 - Machine Learning
 - Golang/Elixir
 <br/> <br/>
-#
-### Página de portifólio: [https://portifolio-felipe-jhordan.herokuapp.com/](https://portifolio-v2.vercel.app/) (Feito com React )
-### Página gitlab ( mini atividades da faculdade ): https://gitlab.com/FelipeJhordan
-### Github Secundário : https://github.com/FelipeJhordanSecondary
-### Linkedin https://www.linkedin.com/in/felipe-jhordan-maciel-alves-5b191917b/
+## Links
+<div align="center">
+    <a href="https://www.instagram.com/felipejhordan.alves/" target="_blank"><img
+            src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+            target="_blank"></a>
+    <a href="https://gitlab.com/FelipeJhordan" target="_blank"><img
+            src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"
+            target="_blank"></a>
+    <a href="https://www.linkedin.com/in/felipe-jhordan-maciel-alves-5b191917b/" target="_blank"><img
+            src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+            target="_blank"></a>
+    <a href="https://portifolio-v2.vercel.app/" target="_blank"><img
+            src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"
+            target="_blank"></a>
+  <a href="https://github.com/FelipeJhordanSecondary" target="_blank"><img
+            src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"
+            target="_blank"></a>
+</div>
+
 ## Contador de visitas 
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/FelipeJhordan/count.svg" /></p>
