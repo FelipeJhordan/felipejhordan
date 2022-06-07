@@ -7,6 +7,9 @@ Estudando e a procura de uma nova experiência.
 - Banco de dados relacional
 - Nest
 - AdonisJS
+## Tenho Experiência com as seguintes práticas
+- Git flow
+- Scrum
 ## Tenho conhecimento nas seguintes tecnologias:
 - React native
 - React
