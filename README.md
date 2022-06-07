@@ -11,7 +11,6 @@ Estudando e a procura de uma nova experiência.
 - Git flow
 - Scrum
 ## Tenho conhecimento nas seguintes tecnologias:
-- React native
 - React
 - Angular
 - Spring
