@@ -35,7 +35,9 @@ Estudando e a procura de uma nova experiência.
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipejhordan&theme=chartreuse-dark)](https://github.com/felipejhordan/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipejhordan&layout=compact&langs_count=8&hide=vue,scss&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
-## Links
+
+
+## Redes sociais
 <div align="center">
     <a href="https://www.instagram.com/felipejhordan.alves/" target="_blank"><img
             src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"
@@ -54,5 +56,4 @@ Estudando e a procura de uma nova experiência.
             target="_blank"></a>
 </div>
 
-## Contador de visitas 
-<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/FelipeJhordan/count.svg" /></p>
+
