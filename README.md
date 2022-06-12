@@ -28,12 +28,13 @@ Estudando e a procura de uma nova experiência.
 - Python
 - Design Patterns
 - Regex 
-## Futuramente quero estudar
-- React Native 
-- Inglês ( Falar/Escrever )
-- Machine Learning
 - Golang/Elixir
-<br/> <br/>
+
+## Informações Extras
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipejhordan&theme=chartreuse-dark)](https://github.com/felipejhordan/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipejhordan&layout=compact&langs_count=8&hide=vue,scss&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
 ## Links
 <div align="center">
     <a href="https://www.instagram.com/felipejhordan.alves/" target="_blank"><img
