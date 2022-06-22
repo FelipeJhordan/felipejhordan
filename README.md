@@ -1,7 +1,7 @@
 # Olá 🦗!
 ### Meu nome é felipe Jhordan, tenho 22 anos e estou focado e empenhado em seguir carreira Dev.
-## Status  🟢
-Estudando e a procura de uma nova experiência.
+## Status  
+Iniciando um novo projeto/desafio.
 ## Tenho Experiência nas seguintes tecnologias ⚒:
 - Angular 7+
 - Banco de dados relacional
