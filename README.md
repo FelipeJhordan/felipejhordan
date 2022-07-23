@@ -15,20 +15,23 @@ Iniciando um novo projeto/desafio.
 - Angular
 - Spring
 - Android
-- Bancos não relacionais
+- Mongodb
 - Docker
 - Express
+- Solid
+- Clean Code
 ## Estou estudando 📚
-- Angular ( Revendo )
 - NodeJS ( Aprimorando ) 
 - React Js ( Aprimorando )
 - Microserviços
 - AWS
+- Serverless
 - SOLID 
 - Python
 - Design Patterns
 - Regex 
-- Golang/Elixir
+- Golang
+- Mongodb
 
 ## Informações Extras
 
