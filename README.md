@@ -1,15 +1,17 @@
 # Olá 🦗!
 ### Meu nome é felipe Jhordan, tenho 22 anos e estou focado e empenhado em seguir carreira Dev.
 ## Status  
-Iniciando um novo projeto/desafio.
+Desenvolvedor na equipe CORE APIs na MADEIRA MADEIRA
 ## Tenho Experiência nas seguintes tecnologias ⚒:
 - Angular 7+
 - Banco de dados relacional
 - Nest
 - AdonisJS
+- Express
 ## Tenho Experiência com as seguintes práticas
 - Git flow
 - Scrum
+- Serverless
 ## Tenho conhecimento nas seguintes tecnologias:
 - React
 - Angular
@@ -32,6 +34,11 @@ Iniciando um novo projeto/desafio.
 - Regex 
 - Golang
 - Mongodb
+
+## Débitos Técnicos
+- Inglês ( estudando pela busu )
+- Rotina de estudos diária ( foco em alcançar )
+- Noções de arquitetura e algoritmo avançadas ( tentando melhorar )
 
 ## Informações Extras
 
