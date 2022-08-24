@@ -34,6 +34,7 @@ Desenvolvedor na Catalog Squad na MADEIRA MADEIRA
 - Regex 
 - Golang
 - Mongodb
+- Graphl
 
 ## Débitos Técnicos
 - Inglês ( estudando pela busu )
