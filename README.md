@@ -12,6 +12,7 @@ Desenvolvedor na Catalog Squad na MADEIRA MADEIRA
 - Git flow
 - Scrum
 - Serverless
+- SOLID 
 ## Tenho conhecimento nas seguintes tecnologias:
 - React
 - Angular
@@ -28,7 +29,6 @@ Desenvolvedor na Catalog Squad na MADEIRA MADEIRA
 - Microserviços
 - AWS
 - Serverless
-- SOLID 
 - Python
 - Design Patterns
 - Regex 
