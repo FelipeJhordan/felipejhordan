@@ -1,5 +1,8 @@
 # Olá 🦗!
 ### Meu nome é felipe Jhordan, tenho 22 anos e estou focado e empenhado em seguir carreira Dev.
+### Dêem uma olhada no meu portifólio ( pode não estar totalmente atualizado em!) e blog :
+- Portifólio: https://blog-frontend-omega-beryl.vercel.app/
+- Blog: https://blog-frontend-omega-beryl.vercel.app/
 ## Status  
 Desenvolvedor na Catalog Squad na MADEIRA MADEIRA
 ## Tenho Experiência nas seguintes tecnologias ⚒:
