@@ -1,8 +1,5 @@
 # Olá 🦗!
 ### Meu nome é felipe Jhordan, tenho 22 anos e estou focado e empenhado em seguir carreira Dev.
-### Dêem uma olhada no meu portifólio ( pode não estar totalmente atualizado em!) e blog :
-- Portifólio: https://blog-frontend-omega-beryl.vercel.app/
-- Blog: https://blog-frontend-omega-beryl.vercel.app/
 ## Status  
 Desenvolvedor na Catalog Squad na MADEIRA MADEIRA
 ## Tenho Experiência nas seguintes tecnologias ⚒:
@@ -50,6 +47,9 @@ Desenvolvedor na Catalog Squad na MADEIRA MADEIRA
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipejhordan&layout=compact&langs_count=8&hide=vue,scss&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
 
+## Dêem uma olhada no meu portifólio ( pode não estar totalmente atualizado em!) e blog :
+- Portifólio: https://blog-frontend-omega-beryl.vercel.app/
+- Blog: https://blog-frontend-omega-beryl.vercel.app/
 
 ## Redes sociais
 <div align="center">
