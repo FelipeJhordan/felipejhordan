@@ -23,19 +23,18 @@ Desenvolvedor na Catalog Squad na MADEIRA MADEIRA
 - Express
 - Solid
 - Clean Code
+- Golang
+- AWS
 ## Estou estudando 📚
 - NodeJS ( Aprimorando ) 
 - React Js ( Aprimorando )
 - Microserviços
 - AWS
 - Serverless
-- Python
 - Design Patterns
 - Regex 
-- Golang
-- Mongodb
 - Graphl
-
+- Graphql
 ## Débitos Técnicos
 - Inglês ( estudando pela busu )
 - Rotina de estudos diária ( foco em alcançar )
