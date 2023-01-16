@@ -8,6 +8,7 @@ Desenvolvedor na Catalog Squad na MADEIRA MADEIRA
 - Nest
 - AdonisJS
 - Express
+- Golang
 ## Tenho Experiência com as seguintes práticas
 - Git flow
 - Scrum
@@ -71,5 +72,13 @@ Desenvolvedor na Catalog Squad na MADEIRA MADEIRA
             src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"
             target="_blank"></a>
  </div>
+ 
+
+<br>
+<br>
+<h3 align="center">Você é o visitante:</h3>
+<p align="center">
+    <img alingn="center" src="https://profile-counter.glitch.me/FelipeJhordan/count.svg" />
+</p>
 
 
