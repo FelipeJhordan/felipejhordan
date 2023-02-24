@@ -15,6 +15,7 @@ Desenvolvedor na Catalog Squad na MADEIRA MADEIRA
 - Serverless
 - SOLID 
 ## Tenho conhecimento nas seguintes tecnologias:
+- Java
 - React
 - Angular
 - Spring
