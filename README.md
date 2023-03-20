@@ -35,7 +35,8 @@ Desenvolvedor na Catalog Squad na MADEIRA MADEIRA
 - Serverless
 - Design Patterns
 - Regex 
-- Graphl
+- Angular ( Relembrando ) 
+- Testes de Componentes/Services/E2E no front ( mais especificamente com angular )
 - Graphql
 ## Débitos Técnicos
 - Inglês ( estudando pela busu )
