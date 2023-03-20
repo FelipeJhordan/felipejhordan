@@ -1,5 +1,5 @@
 # Olá 🦗!
-### Meu nome é felipe Jhordan, tenho 22 anos e estou focado e empenhado em seguir carreira Dev.
+### Bem vindo ao meu portifólio, segue alguns detalhes sobre mim..
 ## Status  
 Desenvolvedor na Catalog Squad na MADEIRA MADEIRA
 ## Tenho Experiência nas seguintes tecnologias ⚒:
