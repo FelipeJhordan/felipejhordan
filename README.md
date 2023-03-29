@@ -8,7 +8,7 @@ Desenvolvedor na Catalog Squad na MADEIRA MADEIRA
 - Nest
 - AdonisJS
 - Express
-- Golang
+- Golang (fiber http / sqs / kobra-cli )
 ## Tenho Experiência com as seguintes práticas
 - Git flow
 - Scrum
@@ -49,7 +49,7 @@ Desenvolvedor na Catalog Squad na MADEIRA MADEIRA
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipejhordan&layout=compact&langs_count=8&hide=vue,scss&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
 
-## Dêem uma olhada no meu portifólio ( pode não estar totalmente atualizado em!) e blog :
+## Dêem uma olhada no meu portifólio  e blog :
 - Portifólio: https://blog-frontend-omega-beryl.vercel.app/
 - Blog: https://blog-frontend-omega-beryl.vercel.app/
 
