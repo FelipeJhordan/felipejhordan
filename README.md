@@ -4,7 +4,8 @@
 Desenvolvedor na Catalog Squad na MADEIRA MADEIRA
 ## Tenho Experiência nas seguintes tecnologias ⚒:
 - Angular 7+
-- Banco de dados relacional
+- Banco de dados relacionais ( conheço quase todos )
+- Banco de dados não-relacionais ( mongo/redis )
 - Nest
 - AdonisJS
 - Express
