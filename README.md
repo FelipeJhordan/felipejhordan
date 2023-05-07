@@ -39,6 +39,7 @@ Desenvolvedor na Catalog Squad na MADEIRA MADEIRA
 - Angular ( Relembrando ) 
 - Testes de Componentes/Services/E2E no front ( mais especificamente com angular )
 - Graphql
+- Kafka
 ## Débitos Técnicos
 - Inglês ( estudando pela busu )
 - Rotina de estudos diária ( foco em alcançar )
