@@ -29,17 +29,7 @@ Desenvolvedor na Catalog Squad na MADEIRA MADEIRA
 - Golang
 - AWS
 ## Estou estudando 📚
-- NodeJS ( Aprimorando ) 
-- React Js ( Aprimorando )
-- Microserviços
-- AWS
-- Serverless
-- Design Patterns
-- Regex 
-- Angular ( Relembrando ) 
-- Testes de Componentes/Services/E2E no front ( mais especificamente com angular )
-- Graphql
-- Kafka
+- Fazendo os cursos da plataforma Full-Cycle 
 ## Débitos Técnicos
 - Inglês ( estudando pela busu )
 - Rotina de estudos diária ( foco em alcançar )
