@@ -1,5 +1,3 @@
-# Olá 🦗!
-### Bem vindo ao meu portifólio, segue alguns detalhes sobre mim..
 ## Status  
 Desenvolvedor na Catalog Squad na MADEIRA MADEIRA
 ## Tenho Experiência nas seguintes tecnologias ⚒:
