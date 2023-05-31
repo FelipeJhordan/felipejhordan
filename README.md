@@ -40,9 +40,8 @@ Desenvolvedor na Catalog Squad na MADEIRA MADEIRA
 <br/>
 
 ## Dêem uma olhada no meu portifólio  e blog :
-- Portifólio: https://blog-frontend-omega-beryl.vercel.app/
-- Blog: https://blog-frontend-omega-beryl.vercel.app/
-
+- [Portifólio](https://portifolio-v2.vercel.app/)
+- [Blog ( em construção. ) ](https://blog-frontend-omega-beryl.vercel.app/) 
 ## Redes sociais
 <div align="center">
     <a href="https://www.instagram.com/felipejhordan.alves/" target="_blank"><img
