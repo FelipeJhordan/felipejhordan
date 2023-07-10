@@ -33,11 +33,6 @@ Desenvolvedor na Catalog Squad na MADEIRA MADEIRA
 - Rotina de estudos diária ( foco em alcançar )
 - Noções de arquitetura e algoritmo avançadas ( tentando melhorar )
 
-## Informações Extras
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipejhordan&theme=chartreuse-dark)](https://github.com/felipejhordan/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipejhordan&layout=compact&langs_count=8&hide=vue,scss&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
-<br/>
 
 ## Dêem uma olhada no meu portifólio  e blog :
 - [Portifólio](https://portifolio-v2.vercel.app/)
@@ -66,10 +61,4 @@ Desenvolvedor na Catalog Squad na MADEIRA MADEIRA
  
 
 <br>
-<br>
-<h3 align="center">Você é o visitante:</h3>
-<p align="center">
-    <img alingn="center" src="https://profile-counter.glitch.me/FelipeJhordan/count.svg" />
-</p>
-
 
