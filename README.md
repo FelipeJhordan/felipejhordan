@@ -18,7 +18,6 @@ Desenvolvedor na Catalog Squad na MADEIRA MADEIRA
 - React
 - Angular
 - Spring
-- Android
 - Mongodb
 - Docker
 - Express
@@ -26,8 +25,11 @@ Desenvolvedor na Catalog Squad na MADEIRA MADEIRA
 - Clean Code
 - Golang
 - AWS
+- Kafka/Rabbit MQ
 ## Estou estudando 📚
-- Fazendo os cursos da plataforma Full-Cycle 
+- Fazendo os cursos da plataforma Full-Cycle
+- Kafka
+- Kubernates
 ## Débitos Técnicos
 - Inglês ( estudando pela busu )
 - Rotina de estudos diária ( foco em alcançar )
