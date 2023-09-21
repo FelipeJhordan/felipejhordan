@@ -1,5 +1,4 @@
-## Status  
-Desenvolvedor na Catalog Squad na MADEIRA MADEIRA
+## Informações sobre mim
 ## Tenho Experiência nas seguintes tecnologias ⚒:
 - Angular 7+
 - Banco de dados relacionais ( conheço quase todos )
