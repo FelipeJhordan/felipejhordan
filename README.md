@@ -3,7 +3,7 @@
 - Angular 7+
 - Banco de dados relacionais ( conheço quase todos )
 - Banco de dados não-relacionais ( mongo/redis )
-- Nest
+- NestJS
 - AdonisJS
 - Express
 - Golang (fiber http / sqs / kobra-cli )
