@@ -58,8 +58,9 @@
   <a href="https://www.hackerrank.com/felipejordan_al1" target="_blank"><img
             src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"
             target="_blank"></a>
+    <a href="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2FFelipeJhordan&logo=leetcode&logoColor=yellow" target="_blank"><img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2FFelipeJhordan&logo=leetcode&logoColor=yellow" /> </a>
  </div>
- 
+
 
 <br>
 
