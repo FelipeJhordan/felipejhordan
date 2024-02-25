@@ -1,12 +1,14 @@
 ## Informações sobre mim
 ## Tenho Experiência nas seguintes tecnologias ⚒:
 - Angular 7+
-- Banco de dados relacionais ( conheço quase todos )
+- Banco de dados relacionais ( Mysql, Postgree e SQL Server )
 - Banco de dados não-relacionais ( mongo/redis )
 - NestJS
 - AdonisJS
 - Express
 - Golang (fiber http / sqs / kobra-cli )
+- Java
+- Spring
 ## Tenho Experiência com as seguintes práticas
 - Git flow
 - Scrum
