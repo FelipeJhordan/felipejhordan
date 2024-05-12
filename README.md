@@ -1,6 +1,6 @@
 ## Informações sobre mim
 ## Tenho Experiência nas seguintes tecnologias ⚒:
-- Angular 7+
+- Angular 9, 11+
 - Banco de dados relacionais ( Mysql, Postgree e SQL Server )
 - Banco de dados não-relacionais ( mongo/redis )
 - NestJS
