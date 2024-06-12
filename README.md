@@ -31,6 +31,7 @@
 - Fazendo os cursos da plataforma Full-Cycle
 - Kafka
 - Kubernates
+- Quarkus
 ## Débitos Técnicos
 - Inglês ( estudando pela busu )
 - Rotina de estudos diária ( foco em alcançar )
