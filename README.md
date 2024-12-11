@@ -1,5 +1,5 @@
 # Olá (:
-Neste momento estou entrando na squad de logística como desenvolvedor Full-stack PL na LuizaLabs.
+Sou desenvolvedor full-stack PL na LuizaLabs (:
 ## Informações sobre mim
 ## Tenho Experiência nas seguintes tecnologias ⚒:
 - Angular 9, 11+
